@@ -89,7 +89,7 @@ void loop()
 }
 ```
 ## OUTPUT
-![output](./R.PNG)
+![output](./R.png)
  
 
 
